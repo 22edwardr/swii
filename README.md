@@ -1,4 +1,3 @@
 # swii
-# Cualquier requisito o asunto importante ira aca
-#Esto es un ejemplo
+# Si vio este mensaje es un puto pro en git.....sino jodase 
 
